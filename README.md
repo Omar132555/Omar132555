@@ -25,7 +25,7 @@ class Omar
 
     public array $stack = ["Laravel", "Spring Boot", "React", "Angular", "MySQL", "PostgreSQL", "Redis", "Docker"];
 
-    public array $currentlyExploring = ["LLM integrations", "System design", "Real-time architectures", "Go"];
+    public array $currentlyExploring = ["CI/CD", "GitHub Actions", "Docker", "System Design", "Database Indexing", "Message Brokers", "gRPC / GraphQL / SOAP"];
 
     public function mindset(): string
     {
@@ -217,12 +217,29 @@ class Omar
 
 ---
 
-## 🧠 Currently
+## 🧠 Currently Focusing On
 
-- 🔭 Building production-grade backends with **Spring Boot & Laravel**
-- 🌱 Deepening my knowledge of **system design** and **distributed systems**
-- 🤖 Experimenting with **local LLMs** and AI safety patterns
-- ⚡ Looking for a **Software Engineer / Backend Developer** role where I can grow and ship real products
+<div align="center">
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-00d9ff?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![DB Indexing](https://img.shields.io/badge/Database_Indexing-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Message Broker](https://img.shields.io/badge/Message_Brokers-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-6e7681?style=for-the-badge)
+
+</div>
+
+- 🔁 **CI/CD pipelines** and automating build, test and deploy with **GitHub Actions**
+- 🐳 Going deeper with **Docker** (containers, images, Compose)
+- 🏗️ **System design**: building scalable, reliable backends
+- ⚡ **Database indexing** and how it speeds up queries
+- 📨 **Message brokers** for async, decoupled services
+- 🔌 API styles compared: **gRPC, GraphQL and SOAP**
+- 💼 Looking for a **Software Engineer / Backend Developer** role where I can grow and ship real products
 
 ---
 
