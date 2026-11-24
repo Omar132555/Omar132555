@@ -1,13 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Omar%20Mostafa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Backend%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="./assets/header.svg" alt="Omar Mostafa - Software Engineer" />
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Omar+%F0%9F%91%8B;I+build+APIs+that+scale+and+UIs+that+feel+good;Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular;I+teach+LLMs+to+live+inside+real+products+%F0%9F%A4%96;Based+in+Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
-</a>
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Omar132555&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Omar132555?style=for-the-badge&logo=github&color=2c5364)
@@ -27,7 +21,7 @@ class Omar
 {
     public string $role      = "Software Engineer (Full Stack / Backend)";
     public string $education = "B.Sc. Computer Science, Assiut University (2026)";
-    public string $location  = "Cairo, Egypt 🇪🇬";
+    public string $location  = "Cairo, Egypt";
 
     public array $stack = ["Laravel", "Spring Boot", "React", "Angular", "MySQL", "PostgreSQL", "Redis", "Docker"];
 
@@ -250,4 +244,4 @@ class Omar
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="footer" />
